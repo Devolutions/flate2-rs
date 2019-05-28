@@ -1,0 +1,2 @@
+[requires]
+miniz/2.1.0-1@devolutions/stable
